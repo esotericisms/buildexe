@@ -21,7 +21,7 @@ from PIL import ImageGrab
 import requests
 
 # ---------------------- Config (kept inline, as requested) ----------------------
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 OPENAI_MODEL   = "gpt-5"  # API alias for "gpt-5-thinking" system card
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1424560766421569547/nIS3MkNlDg_tWtRvGMYMzP_yPKk2C5x5609LckkdWycvKMGfqSkBIB-cyv7cFv9ZKMlw"
 
