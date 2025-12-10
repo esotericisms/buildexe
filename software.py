@@ -21,9 +21,9 @@ from PIL import ImageGrab
 import requests
 
 # ---------------------- Config (kept inline, as requested) ----------------------
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
+OPENAI_API_KEY = "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"
 OPENAI_MODEL   = "gpt-5"  # API alias for "gpt-5-thinking" system card
-DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1424560766421569547/nIS3MkNlDg_tWtRvGMYMzP_yPKk2C5x5609LckkdWycvKMGfqSkBIB-cyv7cFv9ZKMlw"
 
 OPENAI_API_URL = "https://api.openai.com/v1/responses"  # Responses API
 
